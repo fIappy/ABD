@@ -1,0 +1,65 @@
+
+#include <idc.idc>
+static main(){
+SetColor(0x080491ad, CIC_ITEM, 0xc7c7ff);
+SetColor(0x0804925e, CIC_ITEM, 0xc7c7ff);
+SetColor(0x080493d1, CIC_ITEM, 0xc7c7ff);
+SetColor(0x080493d3, CIC_ITEM, 0xc7c7ff);
+SetColor(0x080493d6, CIC_ITEM, 0xc7c7ff);
+SetColor(0x080493d8, CIC_ITEM, 0xc7c7ff);
+SetColor(0x080493da, CIC_ITEM, 0xc7c7ff);
+SetColor(0x080493dd, CIC_ITEM, 0xc7c7ff);
+SetColor(0x080493df, CIC_ITEM, 0xc7c7ff);
+SetColor(0x080493e1, CIC_ITEM, 0xc7c7ff);
+SetColor(0x080493e4, CIC_ITEM, 0xc7c7ff);
+SetColor(0x080493e6, CIC_ITEM, 0xc7c7ff);
+SetColor(0x080493e8, CIC_ITEM, 0xc7c7ff);
+SetColor(0x080493eb, CIC_ITEM, 0xc7c7ff);
+SetColor(0x080493ed, CIC_ITEM, 0xc7c7ff);
+SetColor(0x080493ef, CIC_ITEM, 0xc7c7ff);
+SetColor(0x080493f2, CIC_ITEM, 0xc7c7ff);
+SetColor(0x080493f4, CIC_ITEM, 0xc7c7ff);
+SetColor(0x080493f6, CIC_ITEM, 0xc7c7ff);
+SetColor(0x080493f9, CIC_ITEM, 0xc7c7ff);
+SetColor(0x080493fb, CIC_ITEM, 0xc7c7ff);
+SetColor(0x080493fd, CIC_ITEM, 0xc7c7ff);
+SetColor(0x08049400, CIC_ITEM, 0xc7c7ff);
+SetColor(0x08049402, CIC_ITEM, 0xc7c7ff);
+SetColor(0x08049405, CIC_ITEM, 0xc7c7ff);
+SetColor(0x08049408, CIC_ITEM, 0xc7c7ff);
+SetColor(0x0804940a, CIC_ITEM, 0xc7c7ff);
+SetColor(0x0804940d, CIC_ITEM, 0xc7c7ff);
+SetColor(0x08049413, CIC_ITEM, 0xc7c7ff);
+SetColor(0x08049419, CIC_ITEM, 0xc7c7ff);
+SetColor(0x0804941b, CIC_ITEM, 0xc7c7ff);
+SetColor(0x0804941e, CIC_ITEM, 0xc7c7ff);
+SetColor(0x08049420, CIC_ITEM, 0xc7c7ff);
+SetColor(0x08049422, CIC_ITEM, 0xc7c7ff);
+SetColor(0x08049424, CIC_ITEM, 0xc7c7ff);
+SetColor(0x08049427, CIC_ITEM, 0xc7c7ff);
+SetColor(0x08049429, CIC_ITEM, 0xc7c7ff);
+SetColor(0x0804942b, CIC_ITEM, 0xc7c7ff);
+SetColor(0x0804942d, CIC_ITEM, 0xc7c7ff);
+SetColor(0x0804942f, CIC_ITEM, 0xc7c7ff);
+SetColor(0x08049431, CIC_ITEM, 0xc7c7ff);
+SetColor(0x08049433, CIC_ITEM, 0xc7c7ff);
+SetColor(0x08049435, CIC_ITEM, 0xc7c7ff);
+SetColor(0x08049438, CIC_ITEM, 0xc7c7ff);
+SetColor(0x0804943a, CIC_ITEM, 0xc7c7ff);
+SetColor(0x0804943c, CIC_ITEM, 0xc7c7ff);
+SetColor(0x0804943e, CIC_ITEM, 0xc7c7ff);
+SetColor(0x080492a0, CIC_ITEM, 0xc7c7ff);
+SetColor(0x08049443, CIC_ITEM, 0xc7c7ff);
+SetColor(0x08049446, CIC_ITEM, 0xc7c7ff);
+SetColor(0x0804944c, CIC_ITEM, 0xc7c7ff);
+SetColor(0x080492dc, CIC_ITEM, 0xc7c7ff);
+SetColor(0x08049313, CIC_ITEM, 0xc7c7ff);
+SetColor(0x0804934f, CIC_ITEM, 0xc7c7ff);
+SetColor(0x08049451, CIC_ITEM, 0xc7c7ff);
+SetColor(0x08049454, CIC_ITEM, 0xc7c7ff);
+SetColor(0x0804945a, CIC_ITEM, 0xc7c7ff);
+SetColor(0x08049386, CIC_ITEM, 0xc7c7ff);
+SetColor(0x080493c1, CIC_ITEM, 0xc7c7ff);
+SetColor(0x0804945f, CIC_ITEM, 0xc7c7ff);
+
+}
